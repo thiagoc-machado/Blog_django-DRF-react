@@ -1,0 +1,58 @@
+# Django
+# Arquivos gerados pelo Django
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+db.sqlite3
+
+# Arquivos de mídia gerados pelo Django
+media/
+
+# Arquivos estáticos gerados pelo Django
+static/
+
+# Virtual Environment
+venv/
+env/
+
+# Arquivos específicos do Django
+*.settings
+*.config
+*.env
+*.secret_key
+*.db
+
+# Arquivos de migrações do Django
+**/migrations/
+db.sqlite3
+
+# React
+# Arquivos de build do React
+build/
+public/
+
+# Node.js
+node_modules/
+
+# Arquivos de cache do npm
+npm-debug.log
+
+# Dependências do Yarn
+yarn-error.log
+yarn.lock
+
+# Arquivos de ambiente
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Outros arquivos específicos do React
